@@ -1,8 +1,9 @@
 /*
  *  Modified by JINsMac 
- *  Original game by 
+ *  Original game by ccostin93
  * 
- * 
+ *  https://github.com/ccostin93/Space-Invader-Arduino : 
+ *  https://github.com/ccostyn/Space-Invaders-library
  * digitalRead( USER_BTN ) 
  * 
  */
