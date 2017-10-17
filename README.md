@@ -25,6 +25,6 @@ like this.
 
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141710.jpg" width="400">
 
+Some modipied view
 
-some Modipied view
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171017_150626.jpg" width="400">
