@@ -13,5 +13,12 @@ TODO
 1.8 BLACKWHITE LCD ---> 2.4inch COLOR LCD
 
 
-<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171013_092831.jpg" width="100">
+<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171013_092831.jpg" width="400">
 
+<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_1411620.jpg" width="400">
+
+<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141653.jpg" width="400">
+
+<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141710.jpg" width="400">
+
+<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171017_150626.jpg" width="400">
