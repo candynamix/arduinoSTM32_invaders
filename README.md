@@ -17,9 +17,11 @@ orignal view
 
 porting view
 like this. 
+
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141620.jpg" width="400">
 
 but realview is very small. 
+
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171013_092831.jpg" width="400">
 
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141653.jpg" width="400">
