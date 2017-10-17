@@ -27,6 +27,6 @@ like this.
 
 GameView size is Very small. 
 
-so Some modipied view
+So some modified
 
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171017_150626.jpg" width="400">
