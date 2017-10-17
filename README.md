@@ -14,18 +14,17 @@ TODO
 
 orignal view
 
+Black&White LCD 84x44 size 
 
-porting view
+---> Color LCD 320x240 size.  
 like this. 
 
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141620.jpg" width="400">
-
-but realview is very small. 
-
-<img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171013_092831.jpg" width="400">
 
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141653.jpg" width="400">
 
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171014_141710.jpg" width="400">
 
+
+some Modipied view
 <img src="https://github.com/candynamix/arduinoSTM32_invaders/blob/master/img/IMG_20171017_150626.jpg" width="400">
